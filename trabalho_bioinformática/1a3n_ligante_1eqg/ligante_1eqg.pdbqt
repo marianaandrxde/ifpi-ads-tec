@@ -1,0 +1,155 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  111 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N2_7 
+REMARK    2  A    between atoms: C3_3  and  O3_12 
+REMARK    3  A    between atoms: C4_4  and  O4_17 
+REMARK    4  A    between atoms: C5_5  and  C6_14 
+REMARK    5  A    between atoms: C6_14  and  O6_15 
+REMARK       I    between atoms: C7_8  and  N2_7 
+REMARK    6  A    between atoms: C2_33  and  N2_49 
+REMARK    7  A    between atoms: C3_35  and  O3_51 
+REMARK    8  A    between atoms: C4_37  and  O4_53 
+REMARK    9  A    between atoms: C5_39  and  C6_41 
+REMARK   10  A    between atoms: C6_41  and  O6_56 
+REMARK       I    between atoms: C7_44  and  N2_49 
+REMARK   11  A    between atoms: C2_62  and  N2_78 
+REMARK   12  A    between atoms: C3_64  and  O3_80 
+REMARK   13  A    between atoms: C4_66  and  O4_82 
+REMARK   14  A    between atoms: C5_68  and  C6_70 
+REMARK   15  A    between atoms: C6_70  and  O6_85 
+REMARK       I    between atoms: C7_73  and  N2_78 
+REMARK   16  A    between atoms: C2_91  and  N2_107 
+REMARK   17  A    between atoms: C3_93  and  O3_109 
+REMARK   18  A    between atoms: C4_95  and  O4_111 
+REMARK   19  A    between atoms: C5_97  and  C6_99 
+REMARK   20  A    between atoms: C6_99  and  O6_114 
+REMARK       I    between atoms: C7_102  and  N2_107 
+REMARK   21  A    between atoms: C1_117  and  O1_119 
+REMARK   22  A    between atoms: O1_119  and  C1'_140 
+REMARK   23  A    between atoms: C2_120  and  O2_122 
+REMARK   24  A    between atoms: C3_124  and  O3_126 
+REMARK   25  A    between atoms: C4_128  and  O4_130 
+REMARK   26  A    between atoms: C5_132  and  C6_135 
+REMARK   27  A    between atoms: C6_135  and  O6_138 
+REMARK   28  A    between atoms: C1'_140  and  C2'_143 
+REMARK   29  A    between atoms: C2'_143  and  C3'_146 
+REMARK   30  A    between atoms: C3'_146  and  C4'_149 
+REMARK   31  A    between atoms: C4'_149  and  C5'_152 
+REMARK   32  A    between atoms: C5'_152  and  C6'_155 
+REMARK   33  A    between atoms: C6'_155  and  C7'_158 
+REMARK   34  A    between atoms: C1_165  and  O1_167 
+REMARK   35  A    between atoms: O1_167  and  C1'_188 
+REMARK   36  A    between atoms: C2_168  and  O2_170 
+REMARK   37  A    between atoms: C3_172  and  O3_174 
+REMARK   38  A    between atoms: C4_176  and  O4_178 
+REMARK   39  A    between atoms: C5_180  and  C6_183 
+REMARK   40  A    between atoms: C6_183  and  O6_186 
+REMARK   41  A    between atoms: C1'_188  and  C2'_191 
+REMARK   42  A    between atoms: C3'_193  and  C4'_195 
+REMARK   43  A    between atoms: C4'_195  and  C5'_198 
+REMARK   44  A    between atoms: C5'_198  and  C6'_201 
+REMARK   45  A    between atoms: C2_212  and  N2_228 
+REMARK   46  A    between atoms: C3_214  and  O3_230 
+REMARK   47  A    between atoms: C4_216  and  O4_232 
+REMARK   48  A    between atoms: C5_218  and  C6_220 
+REMARK   49  A    between atoms: C6_220  and  O6_235 
+REMARK       I    between atoms: C7_223  and  N2_228 
+REMARK   50  A    between atoms: C2A_247  and  CAA_254 
+REMARK   51  A    between atoms: CAA_254  and  CBA_257 
+REMARK   52  A    between atoms: CBA_257  and  CGA_260 
+REMARK   53  A    between atoms: C3B_265  and  CAB_271 
+REMARK   54  A    between atoms: C3C_280  and  CAC_286 
+REMARK   55  A    between atoms: C3D_295  and  CAD_301 
+REMARK   56  A    between atoms: CAD_301  and  CBD_304 
+REMARK   57  A    between atoms: CBD_304  and  CGD_307 
+REMARK   58  A    between atoms: C1_318  and  C6_332 
+REMARK   59  A    between atoms: C2_319  and  C3_322 
+REMARK   60  A    between atoms: C2_319  and  C11_343 
+REMARK   61  A    between atoms: C6_332  and  C8_338 
+REMARK   62  A    between atoms: C2_353  and  N2_369 
+REMARK   63  A    between atoms: C3_355  and  O3_371 
+REMARK   64  A    between atoms: C4_357  and  O4_373 
+REMARK   65  A    between atoms: C5_359  and  C6_361 
+REMARK   66  A    between atoms: C6_361  and  O6_376 
+REMARK       I    between atoms: C7_364  and  N2_369 
+REMARK   67  A    between atoms: C2_382  and  N2_398 
+REMARK   68  A    between atoms: C3_384  and  O3_400 
+REMARK   69  A    between atoms: C4_386  and  O4_402 
+REMARK   70  A    between atoms: C5_388  and  C6_390 
+REMARK   71  A    between atoms: C6_390  and  O6_405 
+REMARK       I    between atoms: C7_393  and  N2_398 
+REMARK   72  A    between atoms: C2_411  and  N2_427 
+REMARK   73  A    between atoms: C3_413  and  O3_429 
+REMARK   74  A    between atoms: C4_415  and  O4_431 
+REMARK   75  A    between atoms: C5_417  and  C6_419 
+REMARK   76  A    between atoms: C6_419  and  O6_434 
+REMARK       I    between atoms: C7_422  and  N2_427 
+REMARK   77  A    between atoms: C2_440  and  N2_456 
+REMARK   78  A    between atoms: C3_442  and  O3_458 
+REMARK   79  A    between atoms: C4_444  and  O4_460 
+REMARK   80  A    between atoms: C5_446  and  C6_448 
+REMARK   81  A    between atoms: C6_448  and  O6_463 
+REMARK       I    between atoms: C7_451  and  N2_456 
+REMARK   82  A    between atoms: C2_469  and  N2_485 
+REMARK   83  A    between atoms: C3_471  and  O3_487 
+REMARK   84  A    between atoms: C4_473  and  O4_489 
+REMARK   85  A    between atoms: C5_475  and  C6_477 
+REMARK   86  A    between atoms: C6_477  and  O6_492 
+REMARK       I    between atoms: C7_480  and  N2_485 
+REMARK   87  A    between atoms: C1_495  and  O1_497 
+REMARK   88  A    between atoms: O1_497  and  C1'_518 
+REMARK   89  A    between atoms: C2_498  and  O2_500 
+REMARK   90  A    between atoms: C3_502  and  O3_504 
+REMARK   91  A    between atoms: C4_506  and  O4_508 
+REMARK   92  A    between atoms: C5_510  and  C6_513 
+REMARK   93  A    between atoms: C6_513  and  O6_516 
+REMARK   94  A    between atoms: C1'_518  and  C2'_521 
+REMARK   95  A    between atoms: C2'_521  and  C3'_524 
+REMARK   96  A    between atoms: C3'_524  and  C4'_527 
+REMARK   97  A    between atoms: C4'_527  and  C5'_530 
+REMARK   98  A    between atoms: C5'_530  and  C6'_533 
+REMARK   99  A    between atoms: C6'_533  and  C7'_536 
+REMARK  100  A    between atoms: C2A_552  and  CAA_559 
+REMARK  101  A    between atoms: CAA_559  and  CBA_562 
+REMARK  102  A    between atoms: CBA_562  and  CGA_565 
+REMARK  103  A    between atoms: C3B_570  and  CAB_576 
+REMARK  104  A    between atoms: C3C_585  and  CAC_591 
+REMARK  105  A    between atoms: C3D_600  and  CAD_606 
+REMARK  106  A    between atoms: CAD_606  and  CBD_609 
+REMARK  107  A    between atoms: CBD_609  and  CGD_612 
+REMARK  108  A    between atoms: C1_623  and  C6_637 
+REMARK  109  A    between atoms: C2_624  and  C3_627 
+REMARK  110  A    between atoms: C2_624  and  C11_648 
+REMARK  111  A    between atoms: C6_637  and  C8_643 
+ROOT
+HETATM    1  C1  NAG A 661      25.158   4.405 182.922  1.00 56.58     0.196 C 
+HETATM    2  C2  NAG A 661      24.124   3.613 183.723  1.00 57.13     0.139 C 
+HETATM    3  C3  NAG A 661      23.032   3.109 182.754  1.00 58.75     0.174 C 
+HETATM    4  C4  NAG A 661      22.355   4.302 182.026  1.00 59.05     0.180 C 
+HETATM    5  C5  NAG A 661      23.439   5.191 181.341  1.00 58.18     0.176 C 
+HETATM    6  O5  NAG A 661      24.511   5.538 182.273  1.00 56.64    -0.379 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N2  NAG A 661      24.776   2.506 184.398  1.00 56.54    -0.352 N 
+HETATM    8  C7  NAG A 661      24.713   2.393 185.730  1.00 56.74     0.214 C 
+HETATM    9  C8  NAG A 661      24.764   0.990 186.315  1.00 56.94     0.117 C 
+HETATM   10  O7  NAG A 661      24.616   3.370 186.488  1.00 55.51    -0.274 OA
+HETATM   11  H2  NAG A 661      25.285   1.810 183.854  1.00  0.00     0.163 HD
+ENDBRANCH   2   7
+BRANCH   3  12
+HETATM   12  O3  NAG A 661      22.057   2.365 183.472  1.00 59.03    -0.391 OA
+HETATM   13  H3  NAG A 661      21.385   2.055 182.876  1.00  0.00     0.210 HD
+ENDBRANCH   3  12
+BRANCH   5  14
+HETATM   14  C6  NAG A 661      22.913   6.510 180.805  1.00 57.73     0.198 C 
+BRANCH  14  15
+HETATM   15  O6  NAG A 661      22.494   7.370 181.858  1.00 57.21    -0.398 OA
+HETATM   16  H6  NAG A 661      22.165   8.196 181.523  1.00  0.00     0.209 HD
+ENDBRANCH  14  15
+ENDBRANCH   5  14
+BRANCH   4  17
+HETATM   17  O4  NAG A 661      21.438   3.807 181.048  1.00 60.81    -0.390 OA
+HETATM   18  H4  NAG A 661      21.024   4.537 180.603  1.00  0.00     0.210 HD
+ENDBRANCH   4  17
+TORSDOF 111

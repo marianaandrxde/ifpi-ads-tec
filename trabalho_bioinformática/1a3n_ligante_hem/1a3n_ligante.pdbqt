@@ -1,0 +1,99 @@
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2A_10  and  CAA_17 
+REMARK    2  A    between atoms: CAA_17  and  CBA_20 
+REMARK    3  A    between atoms: CBA_20  and  CGA_23 
+REMARK    4  A    between atoms: C3B_28  and  CAB_34 
+REMARK    5  A    between atoms: C3C_41  and  CAC_47 
+REMARK    6  A    between atoms: C3D_54  and  CAD_60 
+REMARK    7  A    between atoms: CAD_60  and  CBD_63 
+REMARK    8  A    between atoms: CBD_63  and  CGD_66 
+REMARK    9  A    between atoms: C2A_86  and  CAA_93 
+REMARK   10  A    between atoms: CAA_93  and  CBA_96 
+REMARK   11  A    between atoms: CBA_96  and  CGA_99 
+REMARK   12  A    between atoms: C3B_104  and  CAB_110 
+REMARK   13  A    between atoms: C3C_117  and  CAC_123 
+REMARK   14  A    between atoms: C3D_130  and  CAD_136 
+REMARK   15  A    between atoms: CAD_136  and  CBD_139 
+REMARK   16  A    between atoms: CBD_139  and  CGD_142 
+REMARK   17  A    between atoms: C2A_162  and  CAA_169 
+REMARK   18  A    between atoms: CAA_169  and  CBA_172 
+REMARK   19  A    between atoms: CBA_172  and  CGA_175 
+REMARK   20  A    between atoms: C3B_180  and  CAB_186 
+REMARK   21  A    between atoms: C3C_193  and  CAC_199 
+REMARK   22  A    between atoms: C3D_206  and  CAD_212 
+REMARK   23  A    between atoms: CAD_212  and  CBD_215 
+REMARK   24  A    between atoms: CBD_215  and  CGD_218 
+REMARK   25  A    between atoms: C2A_238  and  CAA_245 
+REMARK   26  A    between atoms: CAA_245  and  CBA_248 
+REMARK   27  A    between atoms: CBA_248  and  CGA_251 
+REMARK   28  A    between atoms: C3B_256  and  CAB_262 
+REMARK   29  A    between atoms: C3C_269  and  CAC_275 
+REMARK   30  A    between atoms: C3D_282  and  CAD_288 
+REMARK   31  A    between atoms: CAD_288  and  CBD_291 
+REMARK   32  A    between atoms: CBD_291  and  CGD_294 
+ROOT
+HETATM    1  CHA HEM A 142       8.456  12.968  30.943  1.00 12.71     0.060 C 
+HETATM    2  CHB HEM A 142       6.923  14.956  26.818  1.00 15.63     0.060 C 
+HETATM    3  CHC HEM A 142       8.220  10.950  24.353  1.00  9.88     0.060 C 
+HETATM    4  CHD HEM A 142       9.359   8.784  28.599  1.00  7.91     0.060 C 
+HETATM    5  C1A HEM A 142       7.881  13.832  30.024  1.00 12.45     0.041 A 
+HETATM    6  C2A HEM A 142       7.259  15.104  30.352  1.00 13.35    -0.023 A 
+HETATM    7  C3A HEM A 142       6.835  15.653  29.227  1.00 14.78    -0.027 A 
+HETATM    8  C4A HEM A 142       7.213  14.744  28.146  1.00 14.59     0.041 A 
+HETATM    9  CMA HEM A 142       6.083  16.983  28.996  1.00 14.58     0.051 C 
+HETATM   10  C1B HEM A 142       7.146  14.028  25.811  1.00 12.58     0.041 A 
+HETATM   11  C2B HEM A 142       6.783  14.241  24.425  1.00 13.07    -0.023 A 
+HETATM   12  C3B HEM A 142       7.121  13.141  23.746  1.00 11.69    -0.002 A 
+HETATM   13  C4B HEM A 142       7.744  12.220  24.702  1.00  9.89     0.045 A 
+HETATM   14  CMB HEM A 142       6.110  15.521  23.869  1.00 11.38     0.051 C 
+HETATM   15  C1C HEM A 142       8.590  10.033  25.331  1.00  7.48     0.041 A 
+HETATM   16  C2C HEM A 142       8.854   8.619  25.050  1.00  9.04    -0.023 A 
+HETATM   17  C3C HEM A 142       9.181   8.037  26.202  1.00  8.23    -0.002 A 
+HETATM   18  C4C HEM A 142       9.095   9.037  27.247  1.00  9.42     0.045 A 
+HETATM   19  CMC HEM A 142       8.788   8.033  23.630  1.00 11.32     0.051 C 
+HETATM   20  C1D HEM A 142       9.188   9.763  29.570  1.00  8.17     0.041 A 
+HETATM   21  C2D HEM A 142       9.356   9.518  30.996  1.00 11.33    -0.027 A 
+HETATM   22  C3D HEM A 142       9.096  10.660  31.648  1.00 10.91    -0.023 A 
+HETATM   23  C4D HEM A 142       8.778  11.654  30.662  1.00 10.25     0.041 A 
+HETATM   24  CMD HEM A 142       9.756   8.172  31.613  1.00  7.70     0.051 C 
+HETATM   25  NA  HEM A 142       7.853  13.625  28.660  1.00 13.54    -0.355 N 
+HETATM   26  HA  HEM A 142       8.221  12.826  28.144  1.00  0.00     0.166 HD
+HETATM   27  NB  HEM A 142       7.743  12.773  25.956  1.00 11.26    -0.355 N 
+HETATM   28  HB  HEM A 142       8.103  12.356  26.815  1.00  0.00     0.166 HD
+HETATM   29  NC  HEM A 142       8.746  10.259  26.678  1.00  8.38    -0.355 N 
+HETATM   30  HC  HEM A 142       8.629  11.148  27.165  1.00  0.00     0.166 HD
+HETATM   31  ND  HEM A 142       8.827  11.069  29.400  1.00 10.59    -0.355 N 
+HETATM   32  HD  HEM A 142       8.630  11.531  28.512  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   6  33
+HETATM   33  CAA HEM A 142       7.111  15.685  31.794  1.00 13.99     0.052 C 
+BRANCH  33  34
+HETATM   34  CBA HEM A 142       8.282  16.609  32.184  1.00 19.03     0.118 C 
+BRANCH  34  35
+HETATM   35  CGA HEM A 142       8.282  17.179  33.587  1.00 23.98     0.172 C 
+HETATM   36  O2A HEM A 142       7.692  16.565  34.490  1.00 22.84    -0.648 OA
+HETATM   37  O1A HEM A 142       8.929  18.238  33.767  1.00 28.12    -0.648 OA
+ENDBRANCH  34  35
+ENDBRANCH  33  34
+ENDBRANCH   6  33
+BRANCH  22  38
+HETATM   38  CAD HEM A 142       9.140  10.918  33.183  1.00 12.19     0.052 C 
+BRANCH  38  39
+HETATM   39  CBD HEM A 142       7.749  10.640  33.784  1.00 14.64     0.118 C 
+BRANCH  39  40
+HETATM   40  CGD HEM A 142       7.674  10.715  35.314  1.00 15.56     0.172 C 
+HETATM   41  O1D HEM A 142       6.793  11.458  35.761  1.00 18.46    -0.648 OA
+HETATM   42  O2D HEM A 142       8.469  10.006  35.940  1.00 17.66    -0.648 OA
+ENDBRANCH  39  40
+ENDBRANCH  38  39
+ENDBRANCH  22  38
+BRANCH  17  43
+HETATM   43  CAC HEM A 142       9.535   6.570  26.513  1.00  8.91     0.004 C 
+HETATM   44  CBC HEM A 142       8.876   5.580  25.887  1.00 10.56     0.012 C 
+ENDBRANCH  17  43
+BRANCH  12  45
+HETATM   45  CAB HEM A 142       6.979  12.813  22.251  1.00 14.43     0.004 C 
+HETATM   46  CBB HEM A 142       5.945  13.264  21.532  1.00 14.85     0.012 C 
+ENDBRANCH  12  45
+TORSDOF 32
